@@ -79,7 +79,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://hector-nuno-portfolio.netlify.app" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/hector--nuno--portfolio.netlify.app-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white style="margin-bottom: 5px;" />
 </a>
   
 ![Gmail](https://img.shields.io/badge/hectornuno1994@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
