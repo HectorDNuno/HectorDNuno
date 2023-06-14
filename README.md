@@ -1,9 +1,11 @@
+
+<!-- 
 <div align="center">
 <img src="" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
-# **Hell there, my name is Hector!**  
+# **Hello there, my name is Hector!**  
   
 
 ### **Software Engineer & Youtube Scholar**  
