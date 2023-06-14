@@ -20,7 +20,7 @@
 - ⚡ Fun fact: I have five dogs!  
   
 
-- 😎 Interests: Video games, art, cooking, and interior design  
+- 😎 Interests: video games, art, cooking, and interior design  
   
 
 <br/>  
