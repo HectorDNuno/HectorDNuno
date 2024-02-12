@@ -10,10 +10,6 @@
 
 ### **Software Engineer & Youtube Scholar**  
   
-
-- 🌱 I’m currently learning mobile app development  
-  
-
 - ❓ Ask me about anything related to JavaScript and related technologies  
   
 
